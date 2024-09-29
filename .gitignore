@@ -1,1 +1,4 @@
-
+experiments/.ipynb_checkpoints/*
+logger/.ipynb_checkpoints/*
+pipelines/.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
